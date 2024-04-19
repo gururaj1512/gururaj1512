@@ -72,9 +72,9 @@
 <br/>
 
 ## Top Open Source -
-[![iNotebook](https://github-readme-stats.vercel.app/api/pin/?username=gururaj1512&repo=iNotebook&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gururaj1512/iNotebook)
 [![Food-App](https://github-readme-stats.vercel.app/api/pin/?username=gururaj1512&repo=Food-App&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gururaj1512/Food-App)
 [![News-Today](https://github-readme-stats.vercel.app/api/pin/?username=gururaj1512&repo=News-Today&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gururaj1512/News-Today)
+[![iNotebook](https://github-readme-stats.vercel.app/api/pin/?username=gururaj1512&repo=iNotebook&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gururaj1512/iNotebook)
 [![Gururaj Readme](https://github-readme-stats.vercel.app/api/pin/?username=gururaj1512&repo=gururaj1512&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/gururaj1512/gururaj1512)
 
 <p align="left">
