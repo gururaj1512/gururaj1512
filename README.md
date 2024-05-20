@@ -94,8 +94,8 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/gururaj1512">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gururaj1512&theme=radical&border=7F3FBF&background=0D1117" alt="Gururaj's GitHub streak"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=gururaj1512" alt="GitHub Streak" />
   </a>
 </p>
 
